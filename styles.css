@@ -4,7 +4,8 @@
 	border-left: 5px green solid;
 	padding:10px;
 }
-heading{
+h2{
 	font-size:20px;
 	color:white;
+	text-decoration:underline;
 }
