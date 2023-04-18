@@ -1,7 +1,9 @@
 #container{
 	width:200px;
-	background-color:purple;
-	border-left: 5px green solid;
+	background-color:rgb(128, 0, 128);
+	border-left-width:5px;
+	border-left-style: solid;
+	border-left-color:rgb(0, 128, 0);
 	padding:10px;
 	font-size:20px;
 }
