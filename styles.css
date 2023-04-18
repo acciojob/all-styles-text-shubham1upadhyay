@@ -5,11 +5,8 @@
 	border-left-style: solid;
 	border-left-color:rgb(0, 128, 0);
 	padding:10px;
-	
-}
-.heading{
 	font-size:20px;
+}
+#heading{
 	color:white;
-	font-weight:bold;
-	text-decoration:underline;
 }
