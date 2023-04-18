@@ -1,11 +1,11 @@
-main{
+#container{
 	width:200px;
 	background-color:purple;
 	border-left: 5px green solid;
 	padding:10px;
 	font-size:20px;
-	color:white;
 }
 #heading{
+	color:white;
 	font-weight:bold;
 }
