@@ -1,4 +1,4 @@
-.container{
+.main{
 	width:200px;
 	background-color:rgb(128, 0, 128);
 	border-left-width:5px;
@@ -7,7 +7,7 @@
 	padding:10px;
 	font-size:20px;
 }
-heading{
+.heading{
 	color:white;
 	font-weight:bold;
 	text-decoration:underline;
