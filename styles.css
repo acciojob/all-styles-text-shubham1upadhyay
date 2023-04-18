@@ -5,5 +5,7 @@
 	padding:10px;
 	font-size:20px;
 	color:white;
-	text-decoration:underline;
+}
+#heading{
+	font-weight:bold;
 }
