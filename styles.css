@@ -5,9 +5,10 @@
 	border-left-style: solid;
 	border-left-color:rgb(0, 128, 0);
 	padding:10px;
-	font-size:20px;
+	
 }
-heading{
+#heading{
+	font-size:20px;
 	color:white;
 	font-weight:bold;
 	text-decoration:underline;
